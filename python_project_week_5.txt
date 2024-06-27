@@ -1,0 +1,10 @@
+1. Develop a Python program that converts amounts from one currency to another using real-time exchange rates. 
+The program should be user-friendly, handle exceptions gracefully, and allow users to perform multiple conversions 
+in a single run.
+
+
+2. Develop a Python program that translates text from one language to another using the Google Cloud Translation API. 
+The program should be user-friendly, handle exceptions gracefully, and allow users to perform multiple translations 
+in a single run.
+
+Note: Use python GUI for the project.
